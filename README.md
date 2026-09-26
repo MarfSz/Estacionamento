@@ -1,4 +1,6 @@
-# EstacionaFácil Analytics
+# EstacionaFácil - Estrutura de Dados II
+
+## Analytics
 
 Plataforma web para gestão e análise de feedbacks de clientes de um estacionamento. O sistema recebe avaliações manualmente ou por arquivo CSV, classifica o serviço, identifica o sentimento e temas recorrentes e apresenta indicadores para apoiar a gestão operacional.
 
@@ -44,3 +46,14 @@ Os exemplos acima servem apenas para documentar o formato. O repositório não c
 ## Critérios de aceite implementados
 
 O painel exige autenticação, grava avaliações no banco, processa o texto, mostra histórico, calcula distribuição de sentimentos e satisfação média, permite importação CSV de até 1.000 linhas, oferece telas de alertas e configurações e mantém os artefatos de documentação no repositório.
+
+## Equipe
+
+| Membro | Função |
+|---|---|
+| Marco Antonio | Líder |
+| Vicenzo Burti | Vice-Lider |
+| Pedro Falsetti | Desenvolvedor |
+| Gustavo Ramiro | Desenvolvedor |
+| Romar | Desenvolvedor |
+| Victor | Desenvolvedor |
