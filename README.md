@@ -57,3 +57,4 @@ O painel exige autenticação, grava avaliações no banco, processa o texto, mo
 | Gustavo Ramiro | Desenvolvedor |
 | Romar | Desenvolvedor |
 | Victor | Desenvolvedor |
+| Prof Dawilmar | Colaborador |
